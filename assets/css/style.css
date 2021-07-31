@@ -1,0 +1,13 @@
+.header-class {
+    background: green;
+    border-bottom: 10px solid tan;
+}
+.contact-class {
+    background: tan;
+}
+
+li {
+    list-style-type: none;
+    display: inline;
+
+}
